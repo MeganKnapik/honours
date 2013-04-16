@@ -1,9 +1,18 @@
 #
 # Honours Project
 # Expressive Animation: Towards a Procedural Solution
-#
+#	-----
 # 0402429
 # Ewan McGregor
 # Solitary, poor, nasty, brutish and short.
 # 0402429@abertay.ac.uk
+#	-----
+#
+# A proof-of-concept system for the procedural animation of affective facial expression
+# Ostensibly based on outputs of the Heriot Watt ISL's FAtiMA agent, itself derived from
+# the OCC model.
+# 
+# This will mostly be C# code, for use within Unity.
+# Documentation may or may not be kept up to date on the gitHub wiki for this project, 
+# contingent upon how panicked the last few weeks before handin get.
 #
